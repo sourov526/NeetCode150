@@ -1,6 +1,6 @@
 // problem link: https://neetcode.io/problems/duplicate-integer/question?list=neetcode150
 
-function containsDuplcate(nums) {
+function containsDuplicate(nums) {
     const seen = new Set();
     
 
